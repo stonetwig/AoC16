@@ -25,7 +25,7 @@ namespace AoC16
             //System.Console.WriteLine("Part one: " + p.Distance);
             //System.Console.WriteLine("Part two collided at points: " + p.lastCoord[0] + ", " +  p.lastCoord[1] + ". Of a total of " + p.visited.Count() + " it is " + p.CalculateDistance() + " blocks away");
             var day2 = new Two();
-            System.Console.WriteLine(day2.run());
+            System.Console.WriteLine(day2.runFirst());
         }
 
         public void TakeStep(string step)

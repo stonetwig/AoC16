@@ -7,8 +7,8 @@
 -debug:full
 -nostdlib
 -nologo
-"C:\Users\marku\Source\Repos\AoC16\src\AoC16\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"C:\Users\marku\Source\Repos\AoC16\src\AoC16\bin\Debug\netcoreapp1.0\AoC16.dll"
+"C:\Users\marku\documents\visual studio 2015\Projects\AoC16\src\AoC16\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"C:\Users\marku\documents\visual studio 2015\Projects\AoC16\src\AoC16\bin\Debug\netcoreapp1.0\AoC16.dll"
 -r:"C:\Users\marku\.nuget\packages\Microsoft.CSharp\4.0.1\ref\netstandard1.0\Microsoft.CSharp.dll"
 -r:"C:\Users\marku\.nuget\packages\Microsoft.VisualBasic\10.0.1\ref\netstandard1.1\Microsoft.VisualBasic.dll"
 -r:"C:\Users\marku\.nuget\packages\Microsoft.Win32.Primitives\4.0.1\ref\netstandard1.3\Microsoft.Win32.Primitives.dll"
@@ -82,6 +82,6 @@
 -r:"C:\Users\marku\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\marku\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\marku\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
-"C:\Users\marku\Source\Repos\AoC16\src\AoC16\Program.cs"
-"C:\Users\marku\Source\Repos\AoC16\src\AoC16\Two.cs"
-"C:\Users\marku\Source\Repos\AoC16\src\AoC16\Properties\AssemblyInfo.cs"
+"C:\Users\marku\documents\visual studio 2015\Projects\AoC16\src\AoC16\Program.cs"
+"C:\Users\marku\documents\visual studio 2015\Projects\AoC16\src\AoC16\Two.cs"
+"C:\Users\marku\documents\visual studio 2015\Projects\AoC16\src\AoC16\Properties\AssemblyInfo.cs"
