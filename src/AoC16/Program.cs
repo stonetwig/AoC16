@@ -16,6 +16,7 @@ namespace AoC16
             dayToClass.Add("2", new Two());
             dayToClass.Add("3", new Three());
             dayToClass.Add("4", new Four());
+            dayToClass.Add("5", new Five());
 
             Console.WriteLine("Welcome to Markus Stenqvists (stonetwig) Advent of Code solutions for 2016!");
             do
